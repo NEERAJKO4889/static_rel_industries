@@ -1,0 +1,197 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-header{
+    background-color:white;
+    height: 180px;
+    width: 100%;
+
+}
+.main-header1{
+    background-color:white;
+    height: 120px;
+    width: 100%;
+    display: flex;
+    justify-content:center
+
+}
+.image-logo{
+    height: 100px;
+    width: 12%;
+    background-color: white;
+    margin-left: 130px;
+    margin-top: 20px;
+    /* background-image:url(https://www.ril.com/App_Themes/RIL/images/generic/RIL_Logo.png);
+    background-position: center;
+    background-size: cover; */
+    
+}
+.textcontent{
+    height: 80px;
+    width:28%;
+    /* background-color: aliceblue; */
+    margin-top: 30px;
+
+}
+.button1{
+    height: 35px;
+    width: 200px;
+}
+.icons{
+    width: 13%;
+    height: 80px;
+    /* background-color: aquamarine; */
+    margin-top: 30px;
+
+
+}
+.search{
+    width:180px;
+    height: 30px;
+}
+.social-icons{
+    height: 20px;
+    width: 10%;
+    background-color: white;
+    margin-top: 30px;
+
+}
+.social-icons ul{
+    display: flex;
+    list-style: none;
+    
+    background-color: white;
+
+    
+}
+.main-header2 ul{
+    display:flex;
+    list-style:none;
+    text-align: center;
+}
+.main-header2{
+    margin-left: 20%;
+    
+}
+.main-image{
+    height: 580px;
+    width: 100%;
+    background-color: aquamarine;
+
+}
+.main-footer{
+    height: 330px;
+    width: 100%;
+    /* background-color: aquamarine; */
+    background-color: #F2F2F2;
+    display: flex;
+    justify-content:space-evenly;
+}
+.footers-section1
+{
+    height: 310px;
+    width: 25%;
+    /* background-color: cornflowerblue; */
+    margin-top: 10px;
+
+}
+.footers-section2{
+
+    height: 280px;
+    width: 25%;
+    /* background-color: cornflowerblue; */
+    margin-top:10px
+}
+.footer-image{
+    height: 120px;
+    width: 100%;
+    /* background-color: #bfa161; */
+    
+}
+.foot-image{
+    margin-top:30px;
+    margin-left: 80px;
+}
+.footer-content{
+    height: 160px;
+    width: 100%;
+    /* background-color: aqua; */
+    padding-left: 80px;
+
+    
+}
+
+.footers-section3{
+    height: 280px;
+    width: 25%;
+    /* background-color: cornflowerblue; */
+    margin-top: 10px;
+
+}
+.footer-section11 ul{
+    display: flex;
+    list-style: none;
+    
+
+}
+.footer-section12 ul{
+    display: flex;
+    list-style: none;
+}
+.footer-section13 ul{
+    display: flex;
+    list-style: none;
+}
+.buttonn{
+    height: 38px;
+    background:blue;
+    background-color:blue ;
+    color: aliceblue;
+    
+    
+
+}
+.subscribe1 ul{
+    display: flex;
+    list-style: none;
+}
+.email-sub{
+    height:25px;
+    width: 150px;
+}
+.email-sub1{
+    height: 28px;
+    width: 60px;
+        background: #bfa161;
+        border-color: #bfa161;
+}
+.vertical-line{
+    border-right: 1px solid ;
+    height: 250px;
+    margin-top: 30px;
+}
+.list-style li{
+    background:url(../images/generic/list-disc.gif);
+}
+.footer-end{
+    /* background-color:blueviolet; */
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.footer-end1{
+    margin-top:10px;
+    height: 60px;
+    width: 30%;
+    /* background-color: yellow; */
+
+}
+.footer-end2{
+    margin-top: 10px;
+    height: 60px;
+    width: 30%;
+    /* background-color:crimson */
+
+}
